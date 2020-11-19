@@ -1,0 +1,20 @@
+PM-BI,Machine Learning,Deep Learning,R Language,Python Language,NLP,Data Engineering
+statistical Models,linear regression ,neural network,r,Python,nlp,aws
+statistical Modelling,logistic regression,keras,ggplot,flask,natural language processing,ec2
+probablity,K means,theano,shiny,django,topic modeling ,amazon redshift
+normal distribution,random forest,face detection,cran,pandas,Ida,s3
+poisson distribution,xgboost,neural networks,dplyr,numpy,named entity recognition,docker
+survival models,svm,convolutional neural networks (cnn),tidyr,scikitlearn,pos tagging,kubernetes
+hypothesis testing,naive bayes,recurrent neural networks (RNN),lubridate,sklearn,word2vec,scala
+bayesian inference,pca,object detection,knitr,matplotlib,word embeddings,teradata
+factor analysis,decision trees,yolo,,scipy,lsi,google big query
+forecasting,svd,gpu,,bokeh,spacy,aws lambda
+markov chain,ensemble model,cuda,,statsmodel,gensim,aws emr
+monte carlo,boltzman machine,tensorflow,,,nltk,hive
+PowerBI,,lstm,,,nmf,hadoop
+Microstrategy,,gan,,,doc2vec,sql
+tableau,,opencv,,,bag of words,azure
+Agile,,,,,skip gram,datalake
+Scrum,,,,,bert,oracle
+project management,,,,,sentiment analysis,sql server
+,,,,,chat bot,storage
