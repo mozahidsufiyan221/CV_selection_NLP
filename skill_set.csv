@@ -1,0 +1,21 @@
+Statistics,Machine Learning,Deep Learning,R Language,Python Language,NLP,Data Engineering,Java,PM,BI
+statistical Models,linear regression ,neural network,r,Python,nlp,aws,java,Agile,PowerBI
+statistical Modelling,logistic regression,keras,ggplot,flask,natural language processing,ec2,spring,Scrum,Microstrategy
+probablity,K means,theano,shiny,django,topic modeling ,amazon redshift,springboot,project management,tableau
+normal distribution,random forest,face detection,cran,pandas,Ida,s3,J2EE,Project Management,qlikview
+poisson distribution,xgboost,neural networks,dplyr,numpy,named entity recognition,docker,,powerbi,
+survival models,svm,convolutional neural networks (cnn),tidyr,scikitlearn,pos tagging,kubernetes,,,
+hypothesis testing,naive bayes,recurrent neural networks (RNN),lubridate,sklearn,word2vec,scala,,,
+bayesian inference,pca,object detection,knitr,matplotlib,word embeddings,teradata,,,
+factor analysis,decision trees,yolo,,scipy,lsi,google big query,,,
+forecasting,svd,gpu,,bokeh,spacy,aws lambda,,,
+markov chain,ensemble model,cuda,,statsmodel,gensim,aws emr,,,
+monte carlo,boltzman machine,tensorflow,,,nltk,hive,,,
+,,lstm,,,nmf,hadoop,,,
+,,gan,,,doc2vec,sql,,,
+,,opencv,,,bag of words,azure,,,
+,,,,,skip gram,datalake,,,
+,,,,,bert,oracle,,,
+,,,,,sentiment analysis,sql server,,,
+,,,,,chat bot,storage,,,
+,,,,,,datawarehouse,,,
